@@ -1,6 +1,5 @@
-# One Month Rails
+# One Month Rails Project
 
-This is the sample application for 
-[*One Month Rails: Teach Yourself to Code*](http://onemonthrails.com)
+This is the sample application for the One Month Rails Class
 
-by [Mattan Griffel Student]
+Made by [Crystal Spanakos](about.me/spanakos/)
